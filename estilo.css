@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    color: #5d4037;
+    background-color: #fff9f0;
+}
+
+header {
+    background-color: #f8bbd0; /* Rosa suave */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.galeria {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.pastel {
+    border: 1px solid #d7ccc8;
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+}
